@@ -5,3 +5,5 @@ SIEH, permite automatizar de manera eficiente el registro y control de horas de 
 
 ## Lenguaje de Programación
 Este proyecto está desarrollado en el front con JavaScript y Bootstrap, en el backend se uso PHP. Cabe resaltar que no se usaron frameworks para su desarrollo.
+
+Puedes ver una explicación del funcionamiento en el siguiente enlace: https://youtu.be/hR5_Zvm5R6M
