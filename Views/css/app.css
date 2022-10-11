@@ -1,0 +1,56 @@
+.bg-login,
+.btn-login{
+    background: -moz-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: -webkit-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: linear-gradient(135deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000000", endColorstr="#e607230a",GradientType=1 );
+    color: #fff;
+    font-weight: bold;
+
+}
+.btn-login:hover{
+    color: #fff;
+    font-weight: bold;
+}
+.div-dropdown:hover{
+    background: -moz-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: -webkit-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: linear-gradient(135deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000000", endColorstr="#e607230a",GradientType=1 );
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+/* ******************************* ESTILOS DATATABLES *****************************/
+table th {
+    background: -moz-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: -webkit-linear-gradient(-45deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    background: linear-gradient(135deg, black 0%, rgba(25, 25, 25, 0.94) 60%, rgba(7, 35, 10, 0.9) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000000", endColorstr="#e607230a",GradientType=1 );
+    color: #fff;
+    font-weight: bold;
+} 
+
+table>tbody>tr>td{
+    vertical-align: middle !important;
+}
+
+.btn-group, .btn-group-vertical{
+    position: absolute !important;
+}
+
+.table-home tr th{
+    color: #c6c6c6;
+    background-color: blue !important;
+}
+
+.icon-perfil{
+    color: blue;
+    font-size: 1.2rem;
+}
+.image-perfil{
+    font-size: 1.4rem;
+    color: rgb(41, 126, 41); 
+}
