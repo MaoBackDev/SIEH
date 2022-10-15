@@ -7,4 +7,4 @@ Además, posee un panel de administración que permite visualizar la informació
 ## Lenguaje de Programación
 Este proyecto está desarrollado en el front con JavaScript y Bootstrap, en el backend se uso PHP versión 7.4.25. Cabe resaltar que no se usaron frameworks para su desarrollo.
 
-Puedes ver una explicación del funcionamiento visita mi canal de youTube [Code With Mao](https://youtu.be/hR5_Zvm5R6M)
+Puedes ver una explicación del funcionamiento en mi canal de youTube [Code With Mao](https://youtu.be/hR5_Zvm5R6M)
